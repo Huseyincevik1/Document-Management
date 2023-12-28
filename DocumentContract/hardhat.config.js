@@ -1,7 +1,7 @@
     //require("@nomiclabs/hardhat-ethers");
     require("@nomiclabs/hardhat-waffle");
 
-    const PRIVATE_KEY = "0xe93c127ea077b011300f41d61523f111695b6dca3fb5677bb12273931deb9080";
+    const PRIVATE_KEY = "******************************************";
 
 
     module.exports = {
